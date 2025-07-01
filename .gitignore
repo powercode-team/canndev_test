@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Environment variable files
+.env
+
+# Output folders and generated files
+outputs/*
+!.gitkeep
+*.json
+*.txt
+
+# OS / Editor specific files
+.DS_Store
+*.log
