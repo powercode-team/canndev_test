@@ -10,6 +10,8 @@ SLACK_ALERTS_FILE = os.path.join(OUTPUT_DIR, "mock_slack_alerts.txt")
 WEEKLY_DIGEST_FILE = os.path.join(OUTPUT_DIR, "weekly_digest.txt")
 LOW_PRIORITY_LOG_FILE = os.path.join(OUTPUT_DIR, "low_priority_log.json")
 FAILED_FILES_LOG = os.path.join(OUTPUT_DIR, "failed_files_log.json")
+ALL_RESULTS_LOG = os.path.join(OUTPUT_DIR, "all_results_log.json")
+all_results = []
 
 
 def initialize_output_files():
@@ -45,6 +47,7 @@ def handle_automation(result: ClassificationResult):
         add_to_weekly_digest(result)
     elif classification == "LOW_PRIORITY":
         log_low_priority(result)
+    all_results.append(result)
 
 
 def send_mock_slack_alert(result):
@@ -97,3 +100,9 @@ def finalize_failed_files_log():
     if failed_files:
         with open(FAILED_FILES_LOG, "w", encoding="utf-8") as f:
             json.dump(failed_files, f, indent=2)
+
+
+def finalize_all_results_log():
+    if all_results:
+        with open(ALL_RESULTS_LOG, "w", encoding="utf-8") as f:
+            json.dump(all_results, f, indent=2)

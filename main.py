@@ -50,5 +50,6 @@ for file_path in file_to_process:
 automation.finalize_weekly_digest()
 automation.finalize_low_priority_log()
 automation.finalize_failed_files_log()
+automation.finalize_all_results_log()
 
 print("Processing completed. Outputs saved in the 'outputs' folder.")
