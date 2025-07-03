@@ -1,0 +1,29 @@
+WEEKLY DIGEST - MEDIUM PRIORITY DOCUMENTS:
+
+- Source: data/Huntington Beach, CA/Att_3_Cannabis_Land_Use_Policy_Presentation.pdf
+  Score: 47
+  Reasoning:
+  - Found 'planning commission' 1 times (5 pts each)
+  - Found 'cannabis business' 1 times (5 pts each)
+  - Found 'study session' 1 times (5 pts each)
+  - Found 'cannabis' 10 times (2 pts each)
+  - 'cannabis' appears in title/heading (+2 pts)
+  - Found 'retail' 5 times (2 pts each)
+
+- Source: data/Hermosa Beach, CA/Cannabis_Advisoty_Group_Workplan_-_04-12-2022.pdf
+  Score: 61
+  Reasoning:
+  - Found 'cannabis retail' 2 times (10 pts each)
+  - Found 'cannabis business' 1 times (5 pts each)
+  - Found 'cannabis' 13 times (2 pts each)
+  - 'cannabis' appears in title/heading (+2 pts)
+  - Found 'retail' 4 times (2 pts each)
+
+- Source: data/Visalia, CA/220-7065_Visalia_Cannabis_Survey_Analysis_-_(P)_presentation.pdf
+  Score: 65
+  Reasoning:
+  - Found 'cannabis business' 5 times (5 pts each)
+  - Found 'cannabis' 17 times (2 pts each)
+  - 'cannabis' appears in title/heading (+2 pts)
+  - Found 'retail' 2 times (2 pts each)
+

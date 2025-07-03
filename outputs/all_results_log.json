@@ -1,0 +1,474 @@
+[
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 1195,
+    "reasoning": "Found 'cannabis retail' 37 times (10 pts each); Found 'public hearing' 1 times (5 pts each); Found 'planning commission' 12 times (5 pts each); 'planning commission' appears in title/heading (+2 pts); Found 'social equity' 3 times (5 pts each); Found 'cannabis business' 16 times (5 pts each); Found 'study session' 4 times (5 pts each); Found 'cannabis' 146 times (2 pts each); Found 'marijuana' 16 times (2 pts each); Found 'dispensary' 2 times (2 pts each); Found 'retail' 131 times (2 pts each); Found 'tax revenue' 1 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x27 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x10 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "study session",
+      "cannabis retail",
+      "cannabis",
+      "tax revenue",
+      "cannabis business",
+      "dispensary",
+      "retail",
+      "social equity",
+      "marijuana",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Santa Monica, CA/Santa_Monica_Draft_Zoning_Ordinance.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 672,
+    "reasoning": "Found 'cannabis retail' 9 times (10 pts each); Found 'social equity' 16 times (5 pts each); Found 'cannabis business' 25 times (5 pts each); Found 'study session' 6 times (5 pts each); Found 'cannabis' 152 times (2 pts each); Found 'dispensary' 1 times (2 pts each); Found 'retail' 14 times (2 pts each); Found 'tax revenue' 2 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x4 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x1 (-3 pts each)",
+    "key_phrases": [
+      "study session",
+      "cannabis retail",
+      "cannabis",
+      "tax revenue",
+      "cannabis business",
+      "dispensary",
+      "retail",
+      "social equity"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Santa Monica, CA/Santa_Monica_staff_report.pdf"
+  },
+  {
+    "classification": "LOW_PRIORITY",
+    "score": 14,
+    "reasoning": "Found 'cannabis' 6 times (2 pts each); 'cannabis' appears in title/heading (+2 pts)",
+    "key_phrases": [
+      "cannabis"
+    ],
+    "recommended_action": "log_for_background_awareness",
+    "source_file": "data/Santa Monica, CA/Santa_Monica_Parcels_at_300_2C_600_and_900_buffers.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 273,
+    "reasoning": "Found 'cannabis retail' 1 times (10 pts each); Found 'cannabis business' 6 times (5 pts each); Found 'study session' 20 times (5 pts each); Found 'cannabis' 32 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 29 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x3 (3 pts each)",
+    "key_phrases": [
+      "study session",
+      "cannabis retail",
+      "cannabis",
+      "cannabis business",
+      "retail"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Huntington Beach, CA/Huntington_Beach_Study_Session_PPT.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 786,
+    "reasoning": "Found 'cannabis retail' 2 times (10 pts each); Found 'application period' 5 times (10 pts each); Found 'cannabis business' 31 times (5 pts each); Found 'cannabis' 258 times (2 pts each); Found 'marijuana' 2 times (2 pts each); Found 'dispensary' 1 times (2 pts each); Found 'retail' 18 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x15 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x14 (-3 pts each)",
+    "key_phrases": [
+      "cannabis retail",
+      "cannabis",
+      "cannabis business",
+      "application period",
+      "dispensary",
+      "retail",
+      "marijuana"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Huntington Beach, CA/Cannabis-Regulatory-Ordinance-DRAFT.pdf"
+  },
+  {
+    "classification": "MEDIUM_PRIORITY",
+    "score": 47,
+    "reasoning": "Found 'planning commission' 1 times (5 pts each); Found 'cannabis business' 1 times (5 pts each); Found 'study session' 1 times (5 pts each); Found 'cannabis' 10 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 5 times (2 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "study session",
+      "cannabis",
+      "cannabis business",
+      "retail"
+    ],
+    "recommended_action": "include_in_weekly_digest",
+    "source_file": "data/Huntington Beach, CA/Att_3_Cannabis_Land_Use_Policy_Presentation.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 253,
+    "reasoning": "Found 'cannabis retail' 1 times (10 pts each); Found 'social equity' 1 times (5 pts each); Found 'cannabis business' 13 times (5 pts each); Found 'cannabis' 56 times (2 pts each); Found 'retail' 17 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x9 (3 pts each)",
+    "key_phrases": [
+      "cannabis retail",
+      "cannabis",
+      "cannabis business",
+      "retail",
+      "social equity"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Baldwin Park, CA/Baldwin_Park_Commercial_Cannabis_Retail.APP.Final.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 4946,
+    "reasoning": "Found 'cannabis retail' 195 times (10 pts each); Found 'social equity' 2 times (5 pts each); Found 'cannabis business' 98 times (5 pts each); Found 'cannabis' 687 times (2 pts each); Found 'marijuana' 12 times (2 pts each); Found 'dispensary' 2 times (2 pts each); Found 'retail' 394 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x105 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x3 (-3 pts each)",
+    "key_phrases": [
+      "cannabis retail",
+      "cannabis",
+      "cannabis business",
+      "dispensary",
+      "retail",
+      "social equity",
+      "marijuana"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Baldwin Park, CA/Baldwin_Park_Cannabis_ORD_1501.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 821,
+    "reasoning": "Found 'cannabis retail' 2 times (10 pts each); Found 'cannabis business' 73 times (5 pts each); Found 'cannabis' 177 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'dispensary' 2 times (2 pts each); Found 'retail' 14 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x17 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x1 (-3 pts each)",
+    "key_phrases": [
+      "cannabis retail",
+      "cannabis",
+      "dispensary",
+      "retail",
+      "cannabis business"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Claremont, CA/Claremont_Draft_Cannabis_Tax_Ordinance.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 2885,
+    "reasoning": "Found 'cannabis retail' 9 times (10 pts each); Found 'second reading' 2 times (10 pts each); Found 'planning commission' 16 times (5 pts each); 'planning commission' appears in title/heading (+2 pts); Found 'cannabis business' 258 times (5 pts each); Found 'cannabis' 561 times (2 pts each); Found 'marijuana' 5 times (2 pts each); Found 'retail' 109 times (2 pts each); Found 'tax revenue' 1 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x21 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x4 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "cannabis retail",
+      "second reading",
+      "cannabis",
+      "tax revenue",
+      "cannabis business",
+      "retail",
+      "marijuana"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Claremont, CA/Claremont_CA_Consideration_of_an_Amendment_to_the_Claremont_Zoning_Code_to_Allow_Cannabis_Storefront_Retail_Business_as_a_Conditionally_Permitted_Use.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 1265,
+    "reasoning": "Found 'cannabis retail' 60 times (10 pts each); Found 'second reading' 16 times (10 pts each); 'second reading' appears in title/heading (+2 pts); Found 'public hearing' 1 times (5 pts each); Found 'planning commission' 1 times (5 pts each); Found 'cannabis business' 4 times (5 pts each); Found 'cannabis' 142 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'marijuana' 1 times (2 pts each); Found 'dispensary' 3 times (2 pts each); Found 'retail' 109 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x7 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x20 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "cannabis retail",
+      "second reading",
+      "cannabis",
+      "cannabis business",
+      "dispensary",
+      "retail",
+      "marijuana",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/St Louis Park, MN/St._Louis_Park_Cannabis_Ordinance.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 213,
+    "reasoning": "Found 'cannabis retail' 11 times (10 pts each); Found 'cannabis business' 1 times (5 pts each); Found 'cannabis' 24 times (2 pts each); Found 'retail' 25 times (2 pts each)",
+    "key_phrases": [
+      "retail",
+      "cannabis",
+      "cannabis retail",
+      "cannabis business"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/St Louis Park, MN/St._Louis_Park_Local_Reg_Application_CannabisRetailerorLowerPotencyHempRetailerApplication_2025.pdf"
+  },
+  {
+    "classification": "MEDIUM_PRIORITY",
+    "score": 61,
+    "reasoning": "Found 'cannabis retail' 2 times (10 pts each); Found 'cannabis business' 1 times (5 pts each); Found 'cannabis' 13 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 4 times (2 pts each)",
+    "key_phrases": [
+      "retail",
+      "cannabis",
+      "cannabis retail",
+      "cannabis business"
+    ],
+    "recommended_action": "include_in_weekly_digest",
+    "source_file": "data/Hermosa Beach, CA/Cannabis_Advisoty_Group_Workplan_-_04-12-2022.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 97,
+    "reasoning": "Found 'public hearing' 2 times (5 pts each); Found 'planning commission' 10 times (5 pts each); Found 'study session' 3 times (5 pts each); Found 'cannabis' 3 times (2 pts each); Found 'retail' 2 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x4 (3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "study session",
+      "cannabis",
+      "retail",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Hermosa Beach, CA/05-24-2022_City_Council_Agenda.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 1819,
+    "reasoning": "Found 'cannabis retail' 58 times (10 pts each); Found 'licensing program' 1 times (10 pts each); Found 'public hearing' 2 times (5 pts each); Found 'planning commission' 7 times (5 pts each); Found 'draft ordinance' 3 times (5 pts each); Found 'cannabis business' 28 times (5 pts each); Found 'study session' 1 times (5 pts each); Found 'cannabis' 341 times (2 pts each); Found 'marijuana' 20 times (2 pts each); Found 'dispensary' 1 times (2 pts each); Found 'retail' 132 times (2 pts each); Found 'tax revenue' 6 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x12 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x4 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "study session",
+      "cannabis retail",
+      "cannabis",
+      "tax revenue",
+      "cannabis business",
+      "dispensary",
+      "licensing program",
+      "retail",
+      "draft ordinance",
+      "marijuana",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Monterey, CA/17AUG_Agenda_Report.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 360,
+    "reasoning": "Found 'cannabis retail' 13 times (10 pts each); Found 'public hearing' 2 times (5 pts each); Found 'planning commission' 7 times (5 pts each); Found 'draft ordinance' 3 times (5 pts each); Found 'cannabis business' 2 times (5 pts each); Found 'study session' 1 times (5 pts each); Found 'cannabis' 49 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 26 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x4 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x3 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "study session",
+      "cannabis retail",
+      "cannabis",
+      "cannabis business",
+      "retail",
+      "draft ordinance",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Monterey, CA/04MAY_Agenda_Report.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 427,
+    "reasoning": "Found 'cannabis retail' 3 times (10 pts each); Found 'application window' 1 times (10 pts each); Found 'second reading' 1 times (10 pts each); Found 'planning commission' 1 times (5 pts each); Found 'cannabis business' 15 times (5 pts each); Found 'study session' 1 times (5 pts each); Found 'cannabis' 94 times (2 pts each); Found 'marijuana' 6 times (2 pts each); Found 'dispensary' 9 times (2 pts each); Found 'retail' 19 times (2 pts each); Found 'tax revenue' 3 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x11 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x1 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "study session",
+      "cannabis retail",
+      "second reading",
+      "cannabis",
+      "application window",
+      "tax revenue",
+      "cannabis business",
+      "dispensary",
+      "retail",
+      "marijuana"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Citrus Heights, CA/Citrus_Heights_Staff_Report_.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 493,
+    "reasoning": "Found 'cannabis retail' 4 times (10 pts each); Found 'application window' 1 times (10 pts each); Found 'second reading' 1 times (10 pts each); Found 'planning commission' 3 times (5 pts each); Found 'cannabis business' 3 times (5 pts each); Found 'study session' 1 times (5 pts each); Found 'cannabis' 127 times (2 pts each); Found 'marijuana' 10 times (2 pts each); Found 'dispensary' 25 times (2 pts each); Found 'retail' 25 times (2 pts each); Found 'tax revenue' 6 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x4 (3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "study session",
+      "cannabis retail",
+      "second reading",
+      "cannabis",
+      "application window",
+      "tax revenue",
+      "cannabis business",
+      "dispensary",
+      "retail",
+      "marijuana"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Citrus Heights, CA/Citrus_Heights_4_11_staff_report.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 263,
+    "reasoning": "Found 'cannabis retail' 2 times (10 pts each); Found 'planning commission' 1 times (5 pts each); Found 'cannabis business' 11 times (5 pts each); Found 'cannabis' 59 times (2 pts each); Found 'marijuana' 4 times (2 pts each); Found 'retail' 10 times (2 pts each); Found 'tax revenue' 2 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x12 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x1 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "cannabis retail",
+      "cannabis",
+      "tax revenue",
+      "cannabis business",
+      "retail",
+      "marijuana"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Redondo Beach, CA/Dec_19th_Administrative_Report_(11).pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 182,
+    "reasoning": "Found 'cannabis retail' 2 times (10 pts each); Found 'planning commission' 1 times (5 pts each); Found 'cannabis business' 8 times (5 pts each); Found 'cannabis' 31 times (2 pts each); Found 'retail' 7 times (2 pts each); Found 'tax revenue' 1 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x13 (3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "cannabis retail",
+      "cannabis",
+      "tax revenue",
+      "cannabis business",
+      "retail"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Redondo Beach, CA/Redondo_Administrative_Report_(17).pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 173,
+    "reasoning": "Found 'cannabis retail' 3 times (10 pts each); Found 'application period' 2 times (10 pts each); Found 'cannabis business' 10 times (5 pts each); Found 'cannabis' 19 times (2 pts each); Found 'retail' 16 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x1 (3 pts each)",
+    "key_phrases": [
+      "cannabis retail",
+      "cannabis",
+      "cannabis business",
+      "retail",
+      "application period"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Cudahy, CA/Cudahy_memo_re_lack_of_viable_parcels_in_remaining_zone.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 5017,
+    "reasoning": "Found 'cannabis retail' 191 times (10 pts each); Found 'second reading' 1 times (10 pts each); Found 'public hearing' 1 times (5 pts each); Found 'planning commission' 1 times (5 pts each); Found 'social equity' 1 times (5 pts each); Found 'cannabis business' 104 times (5 pts each); 'cannabis business' appears in title/heading (+2 pts); Found 'cannabis' 806 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'marijuana' 3 times (2 pts each); Found 'dispensary' 3 times (2 pts each); Found 'retail' 409 times (2 pts each); Found 'tax revenue' 1 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x53 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x15 (-3 pts each)",
+    "key_phrases": [
+      "planning commission",
+      "cannabis retail",
+      "second reading",
+      "cannabis",
+      "tax revenue",
+      "cannabis business",
+      "dispensary",
+      "retail",
+      "social equity",
+      "marijuana",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Cudahy, CA/Ordinance_No._730_Cannabis_Business_Accountability_Measure_FINAL.pdf"
+  },
+  {
+    "classification": "IRRELEVANT",
+    "score": 0,
+    "reasoning": "",
+    "key_phrases": [],
+    "recommended_action": "ignore",
+    "source_file": "data/El Segundo, CA/El_Segundo_Cannabis_Regulation_and_Public_Safety_Measure_(withdraw_and_filed_7-20-2021)_(3)_(00389039xB613E).pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 586,
+    "reasoning": "Found 'cannabis retail' 2 times (10 pts each); Found 'application window' 1 times (10 pts each); Found 'second reading' 9 times (10 pts each); Found 'public hearing' 3 times (5 pts each); Found 'planning commission' 5 times (5 pts each); Found 'cannabis business' 4 times (5 pts each); Found 'cannabis' 35 times (2 pts each); Found 'retail' 18 times (2 pts each); Found 'tax revenue' 1 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x99 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x3 (-3 pts each); Recent date within 90 days found: 'september 30, 2025' (+5 pts); Recent date within 90 days found: 'september 30, 2025' (+5 pts)",
+    "key_phrases": [
+      "planning commission",
+      "cannabis retail",
+      "second reading",
+      "cannabis",
+      "application window",
+      "tax revenue",
+      "cannabis business",
+      "retail",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/El Segundo, CA/05-03-2022_Agenda_Packet.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 91,
+    "reasoning": "Found 'second reading' 6 times (10 pts each); Found 'public hearing' 3 times (5 pts each); Found 'cannabis' 5 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x2 (3 pts each)",
+    "key_phrases": [
+      "second reading",
+      "cannabis",
+      "public hearing"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/El Segundo, CA/04-19-2022_City_Council_Agenda.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 253,
+    "reasoning": "Found 'cannabis retail' 7 times (10 pts each); Found 'zoning amendment' 2 times (5 pts each); Found 'cannabis business' 7 times (5 pts each); Found 'study session' 5 times (5 pts each); Found 'cannabis' 32 times (2 pts each); Found 'retail' 23 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x1 (3 pts each)",
+    "key_phrases": [
+      "study session",
+      "zoning amendment",
+      "cannabis retail",
+      "cannabis",
+      "cannabis business",
+      "retail"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Novato, CA/Novato_Staff_Report_Cannabis_Storefront_Retail_Discussion.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 881,
+    "reasoning": "Found 'cannabis business' 89 times (5 pts each); 'cannabis business' appears in title/heading (+2 pts); Found 'cannabis' 171 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'marijuana' 3 times (2 pts each); Found 'dispensary' 1 times (2 pts each); Found 'retail' 11 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x20 (3 pts each)",
+    "key_phrases": [
+      "cannabis",
+      "dispensary",
+      "retail",
+      "cannabis business",
+      "marijuana"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Visalia, CA/Visalia_Tax_Ordinance_ballot_measure.pdf"
+  },
+  {
+    "classification": "MEDIUM_PRIORITY",
+    "score": 65,
+    "reasoning": "Found 'cannabis business' 5 times (5 pts each); Found 'cannabis' 17 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 2 times (2 pts each)",
+    "key_phrases": [
+      "retail",
+      "cannabis",
+      "cannabis business"
+    ],
+    "recommended_action": "include_in_weekly_digest",
+    "source_file": "data/Visalia, CA/220-7065_Visalia_Cannabis_Survey_Analysis_-_(P)_presentation.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 936,
+    "reasoning": "Found 'cannabis retail' 38 times (10 pts each); Found 'cannabis business' 19 times (5 pts each); Found 'cannabis' 116 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 109 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x5 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x2 (-3 pts each)",
+    "key_phrases": [
+      "retail",
+      "cannabis",
+      "cannabis retail",
+      "cannabis business"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Red Wing, MN/Chapter_6_Section_6.28_-6-14-2025_Update.pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 265,
+    "reasoning": "Found 'cannabis retail' 9 times (10 pts each); 'cannabis retail' appears in title/heading (+2 pts); Found 'application window' 5 times (10 pts each); Found 'cannabis business' 1 times (5 pts each); Found 'cannabis' 19 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 29 times (2 pts each); 'retail' appears in title/heading (+2 pts); Modifier match: '\\b(approved|passed|effective|final)\\b' x6 (3 pts each)",
+    "key_phrases": [
+      "cannabis retail",
+      "cannabis",
+      "application window",
+      "cannabis business",
+      "retail"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Red Wing, MN/Local_Cannabis_Retail_Registration_Application_Review_Policy_5-28-2025_(1) (1).pdf"
+  },
+  {
+    "classification": "HIGH_PRIORITY",
+    "score": 712,
+    "reasoning": "Found 'cannabis retail' 16 times (10 pts each); Found 'cannabis business' 10 times (5 pts each); Found 'cannabis' 134 times (2 pts each); 'cannabis' appears in title/heading (+2 pts); Found 'retail' 116 times (2 pts each); Modifier match: '\\b(approved|passed|effective|final)\\b' x1 (3 pts each); Modifier match: '\\b(prohibited|banned|rejected)\\b' x1 (-3 pts each)",
+    "key_phrases": [
+      "retail",
+      "cannabis",
+      "cannabis retail",
+      "cannabis business"
+    ],
+    "recommended_action": "immediate_follow_up",
+    "source_file": "data/Red Wing, MN/Red_Wing_Ord._No._216_-_Amend_Chapt_6_2C_Adding_Sect_6.28_Cannabis.pdf"
+  }
+]

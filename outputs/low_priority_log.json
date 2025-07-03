@@ -1,0 +1,12 @@
+[
+  {
+    "classification": "LOW_PRIORITY",
+    "score": 14,
+    "reasoning": "Found 'cannabis' 6 times (2 pts each); 'cannabis' appears in title/heading (+2 pts)",
+    "key_phrases": [
+      "cannabis"
+    ],
+    "recommended_action": "log_for_background_awareness",
+    "source_file": "data/Santa Monica, CA/Santa_Monica_Parcels_at_300_2C_600_and_900_buffers.pdf"
+  }
+]
